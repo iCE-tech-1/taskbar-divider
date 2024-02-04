@@ -1,5 +1,5 @@
 # Taskbar Divider
-An creative way to keep your taskbar items organized!
+A creative way to keep your taskbar items organized!
 
 ![Windows 11 Taskbar with Dividers](example/image.png)
 
