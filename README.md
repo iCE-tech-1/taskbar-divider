@@ -22,7 +22,7 @@ I use this as a way for me to group apps that are most similar to each other. Fo
 
 7. In the text field that says "Start in:", add the following *before* the text that is shown there
 
-`explorer `
+```explorer ```
 
 For example, if the text field says:
 
@@ -31,7 +31,7 @@ For example, if the text field says:
 ```
 you would change it to:
 ```
-explorer "C:\Users\YourName\Downloads\Taskbar-Divider".
+explorer "C:\Users\YourName\Downloads\Taskbar-Divider"
 ```
 
 8. Click "Apply" again. And then click "OK".
